@@ -2,4 +2,6 @@
     <string name="app_name">HelloGnas</string>
     <string name="roll">ROLL</string>
     <string name="textView2">1</string>
+    <string name="imageView">TODO</string>
+    <string name="imageView2">TODO</string>
 </resources>
